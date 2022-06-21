@@ -1,4 +1,4 @@
-# Vitória Ferreira Sanches 2º ano
+# Vitória Ferreira Sanches
 
 DROP DATABASE IF EXISTS escola;
 CREATE DATABASE escola;
