@@ -3,12 +3,12 @@ Programa usando SQL -
 1) Criar uma estrutura para armazenar dados de alunos, contendo as seguintes colunas:  nome. número de matrícula. cidade. nota final. quantidade de faltas. 
 
 
-## Segunda Etapa - Geração dos Dados  
+### Segunda Etapa - Geração dos Dados  
 
 2) Realizar o cadastro de 40 alunos. Fica a critério do aluno utilizar o método de inserts, geração de dados ou ainda via planilha.  
 
 
-## Terceira Etapa - Consultas  Em relação aos melhores desempenhos: 
+### Terceira Etapa - Consultas  Em relação aos melhores desempenhos: 
 
 3) Apresentar o nome, matricula, nota e faltas dos 10 alunos que obtiveram as melhores notas. Ordenar o resultado da maior nota para a menor nota. 
 
